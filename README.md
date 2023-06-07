@@ -12,28 +12,28 @@
 
 What variable(s) are the target(s) for your model?
 
-"*" The target variable in this model is "IS_SUCCESSFUL"
+* The target variable in this model is "IS_SUCCESSFUL"
 
 What variable(s) are the features for your model?
 
-"*" The features for my model are NAME, APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, INCOME_AMT, ASK_AMT.
+* The features for my model are NAME, APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, INCOME_AMT, ASK_AMT.
 
 What variable(s) should be removed from the input data because they are neither targets nor features?
 
-"*" EIN , NAME were removed
+* EIN , NAME were removed
 
 
 
 ## Compiling, Training, and Evaluating the Model
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
-"*" Two layers for the model were used along with each different models. 
+* Two layers for the model were used along with each different models. 
 
 Were you able to achieve the target model performance?
-"*" I was not able to get the target performance of 75%
+* I was not able to get the target performance of 75%
 
 What steps did you take in your attempts to increase model performance?
-"*" While trying to optimize my model's performance, I added a third layer with more neurons and each having different activation functions. STATUS category and SPECIAL_CONSIDERATIONS were removed. The cutoff values for  "CLASSIFICATION" and "APPLICATION_TYPE" were altered in hopes of finding data with better fit. 
+* While trying to optimize my model's performance, I added a third layer with more neurons and each having different activation functions. STATUS category and SPECIAL_CONSIDERATIONS were removed. The cutoff values for  "CLASSIFICATION" and "APPLICATION_TYPE" were altered in hopes of finding data with better fit. 
 
 # Summary
 
