@@ -3,7 +3,7 @@
 
 # Overview 
 
-*The aim of this undertaking is to construct a binary classifier that estimates the likelihood of applicants attaining prosperity following financial support from Alphabet Soup. To achieve this, we will make use of the attributes available in the dataset and employ diverse machine learning approaches to train and assess the model's effectiveness. The model which is being enhanced and tested is to attain an accuracy score of 75% or greater. 
+* The aim of this undertaking is to construct a binary classifier that estimates the likelihood of applicants attaining prosperity following financial support from Alphabet Soup. To achieve this, we will make use of the attributes available in the dataset and employ diverse machine learning approaches to train and assess the model's effectiveness. The model which is being enhanced and tested is to attain an accuracy score of 75% or greater. 
 
 
 # Results
