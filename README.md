@@ -1,14 +1,14 @@
 # Deep_learning_challenge
 
 
-#Overview 
+#Overview# 
 
 "*" The aim of this undertaking is to construct a binary classifier that estimates the likelihood of applicants attaining prosperity following financial support from Alphabet Soup. To achieve this, we will make use of the attributes available in the dataset and employ diverse machine learning approaches to train and assess the model's effectiveness. The model which is being enhanced and tested is to attain an accuracy score of 75% or greater. 
 
 
-#Results
+#Results#
 
-##Data Preprocessing
+##Data Preprocessing##
 
 What variable(s) are the target(s) for your model?
 
@@ -24,7 +24,7 @@ What variable(s) should be removed from the input data because they are neither 
 
 
 
-##Compiling, Training, and Evaluating the Model
+##Compiling, Training, and Evaluating the Model##
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
 "*" Two layers for the model were used along with each different models. 
@@ -35,7 +35,7 @@ Were you able to achieve the target model performance?
 What steps did you take in your attempts to increase model performance?
 "*" While trying to optimize my model's performance, I added a third layer with more neurons and each having different activation functions. STATUS category and SPECIAL_CONSIDERATIONS were removed. The cutoff values for  "CLASSIFICATION" and "APPLICATION_TYPE" were altered in hopes of finding data with better fit. 
 
-#Summary
+#Summary#
 
 Despite my efforts, even post optimization the accuracy of the model was 0.7293, still short of the required 75%. 
 In order to enhance the model even further, I would contemplate modifying the dropout layers by adjusting their rates or eliminating them completely. Furthermore, I would investigate alternative activation functions and conduct experiments by altering the number of layers and neurons within the model's architecture is my prediction.
